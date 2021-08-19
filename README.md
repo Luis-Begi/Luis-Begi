@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Luis-Begi
+- 🌱 I’m currently learning ... python and JS.
+- 💞️ I’m looking to collaborate on ... my projects 
